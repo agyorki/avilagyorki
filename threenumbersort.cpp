@@ -1,5 +1,5 @@
-// the program attempts to sort three integers
-// in increasing order, it is incomplete
+// the program sorts three integers
+// in increasing order.
 // Avila Gyorki
 // 9/12/2016
 
