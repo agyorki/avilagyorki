@@ -1,0 +1,67 @@
+// ask the user for a number and then print two squares and two triangles 
+// out of stars whose size is equal to the number input
+// Avila Gyorki
+// 9/19/2016
+
+
+#include <iostream>
+
+using std::cout; using std::endl; using std::cin;
+
+int main() {
+
+	int number;
+	cout << "Enter your number: ";
+	cin >> number;
+
+	for (int count = 0; count < number; count++){
+
+		for (int star = 0; star < number; star++)   //the printing of the * square
+			cout << "*";
+		cout << endl;
+	}
+
+
+	cout << endl;
+
+	for (int count = 0; count < number; count++) {
+
+		for (int star = 0; star <= count; star++)	//printing of the growing triangle
+			cout << "*";
+		cout << endl;
+	}
+	cout << endl;
+
+
+	for (int count = 0; count < number; count++) {
+
+		for (int space = 0; space < count; space++)	//increments spaces for shrinking triangle starting at 0
+			cout << " ";
+
+		for (int star = number; star > count; star--) //decrements stars for shrinking triangle
+			cout << "*";
+
+		cout << endl;
+	}
+	cout << endl;
+
+	for (int star = 1; star <= number; star++) {
+		for (int column = 1; column <= number; column++){
+
+			if (star == 1 || column == 1)  // prints the stars for top and right side
+				cout << "*";
+			
+			else if (star == number || column == number) //prints stars for bottom and left side
+				cout << "*";
+		
+			else
+				cout << " ";
+		}
+
+		cout << endl;
+
+	}
+}
+
+	
+	
