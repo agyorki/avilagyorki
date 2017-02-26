@@ -144,3 +144,7 @@ string textJustification(string& text) {
 		return text;
 
 }
+
+
+
+avilagyorki/justification.cpp
