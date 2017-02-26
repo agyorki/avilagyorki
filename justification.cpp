@@ -147,4 +147,3 @@ string textJustification(string& text) {
 
 
 
-avilagyorki/justification.cpp
