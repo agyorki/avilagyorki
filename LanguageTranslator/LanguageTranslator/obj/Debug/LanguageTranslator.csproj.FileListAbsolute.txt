@@ -1,0 +1,10 @@
+C:\Users\agyor\source\repos\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe.config
+C:\Users\agyor\source\repos\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe
+C:\Users\agyor\source\repos\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.pdb
+C:\Users\agyor\source\repos\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csprojAssemblyReference.cache
+C:\Users\agyor\source\repos\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.Form1.resources
+C:\Users\agyor\source\repos\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.Properties.Resources.resources
+C:\Users\agyor\source\repos\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csproj.GenerateResource.cache
+C:\Users\agyor\source\repos\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csproj.CoreCompileInputs.cache
+C:\Users\agyor\source\repos\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.exe
+C:\Users\agyor\source\repos\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.pdb
