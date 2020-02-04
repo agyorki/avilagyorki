@@ -1,0 +1,10 @@
+C:\Users\agyor\source\repos\LabDay2Modified\LabDay2Modified\bin\Debug\LabDay2Modified.exe.config
+C:\Users\agyor\source\repos\LabDay2Modified\LabDay2Modified\bin\Debug\LabDay2Modified.exe
+C:\Users\agyor\source\repos\LabDay2Modified\LabDay2Modified\bin\Debug\LabDay2Modified.pdb
+C:\Users\agyor\source\repos\LabDay2Modified\LabDay2Modified\obj\Debug\LabDay2Modified.csprojAssemblyReference.cache
+C:\Users\agyor\source\repos\LabDay2Modified\LabDay2Modified\obj\Debug\LabDay2Modified.Form1.resources
+C:\Users\agyor\source\repos\LabDay2Modified\LabDay2Modified\obj\Debug\LabDay2Modified.Properties.Resources.resources
+C:\Users\agyor\source\repos\LabDay2Modified\LabDay2Modified\obj\Debug\LabDay2Modified.csproj.GenerateResource.cache
+C:\Users\agyor\source\repos\LabDay2Modified\LabDay2Modified\obj\Debug\LabDay2Modified.csproj.CoreCompileInputs.cache
+C:\Users\agyor\source\repos\LabDay2Modified\LabDay2Modified\obj\Debug\LabDay2Modified.exe
+C:\Users\agyor\source\repos\LabDay2Modified\LabDay2Modified\obj\Debug\LabDay2Modified.pdb
