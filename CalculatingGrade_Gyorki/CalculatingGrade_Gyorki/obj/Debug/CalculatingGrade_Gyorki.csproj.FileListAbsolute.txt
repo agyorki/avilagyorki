@@ -1,0 +1,7 @@
+C:\Users\agyor\source\repos\CalculatingGrade_Gyorki\CalculatingGrade_Gyorki\bin\Debug\CalculatingGrade_Gyorki.exe.config
+C:\Users\agyor\source\repos\CalculatingGrade_Gyorki\CalculatingGrade_Gyorki\bin\Debug\CalculatingGrade_Gyorki.exe
+C:\Users\agyor\source\repos\CalculatingGrade_Gyorki\CalculatingGrade_Gyorki\bin\Debug\CalculatingGrade_Gyorki.pdb
+C:\Users\agyor\source\repos\CalculatingGrade_Gyorki\CalculatingGrade_Gyorki\obj\Debug\CalculatingGrade_Gyorki.csprojAssemblyReference.cache
+C:\Users\agyor\source\repos\CalculatingGrade_Gyorki\CalculatingGrade_Gyorki\obj\Debug\CalculatingGrade_Gyorki.csproj.CoreCompileInputs.cache
+C:\Users\agyor\source\repos\CalculatingGrade_Gyorki\CalculatingGrade_Gyorki\obj\Debug\CalculatingGrade_Gyorki.exe
+C:\Users\agyor\source\repos\CalculatingGrade_Gyorki\CalculatingGrade_Gyorki\obj\Debug\CalculatingGrade_Gyorki.pdb

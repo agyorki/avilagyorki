@@ -1,0 +1,11 @@
+C:\Users\agyor\source\repos\ATM_and_Mini_Statement\ATM_and_Mini_Statement\bin\Debug\ATM_and_Mini_Statement.exe.config
+C:\Users\agyor\source\repos\ATM_and_Mini_Statement\ATM_and_Mini_Statement\bin\Debug\ATM_and_Mini_Statement.exe
+C:\Users\agyor\source\repos\ATM_and_Mini_Statement\ATM_and_Mini_Statement\bin\Debug\ATM_and_Mini_Statement.pdb
+C:\Users\agyor\source\repos\ATM_and_Mini_Statement\ATM_and_Mini_Statement\obj\Debug\ATM_and_Mini_Statement.csprojAssemblyReference.cache
+C:\Users\agyor\source\repos\ATM_and_Mini_Statement\ATM_and_Mini_Statement\obj\Debug\ATM_and_Mini_Statement.MainForm.resources
+C:\Users\agyor\source\repos\ATM_and_Mini_Statement\ATM_and_Mini_Statement\obj\Debug\ATM_and_Mini_Statement.MessageForm.resources
+C:\Users\agyor\source\repos\ATM_and_Mini_Statement\ATM_and_Mini_Statement\obj\Debug\ATM_and_Mini_Statement.Properties.Resources.resources
+C:\Users\agyor\source\repos\ATM_and_Mini_Statement\ATM_and_Mini_Statement\obj\Debug\ATM_and_Mini_Statement.csproj.GenerateResource.cache
+C:\Users\agyor\source\repos\ATM_and_Mini_Statement\ATM_and_Mini_Statement\obj\Debug\ATM_and_Mini_Statement.csproj.CoreCompileInputs.cache
+C:\Users\agyor\source\repos\ATM_and_Mini_Statement\ATM_and_Mini_Statement\obj\Debug\ATM_and_Mini_Statement.exe
+C:\Users\agyor\source\repos\ATM_and_Mini_Statement\ATM_and_Mini_Statement\obj\Debug\ATM_and_Mini_Statement.pdb

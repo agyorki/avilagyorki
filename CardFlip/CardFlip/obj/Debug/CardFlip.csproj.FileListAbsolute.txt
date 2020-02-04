@@ -1,0 +1,10 @@
+C:\Users\agyor\source\repos\CardFlip\CardFlip\bin\Debug\CardFlip.exe.config
+C:\Users\agyor\source\repos\CardFlip\CardFlip\bin\Debug\CardFlip.exe
+C:\Users\agyor\source\repos\CardFlip\CardFlip\bin\Debug\CardFlip.pdb
+C:\Users\agyor\source\repos\CardFlip\CardFlip\obj\Debug\CardFlip.csprojAssemblyReference.cache
+C:\Users\agyor\source\repos\CardFlip\CardFlip\obj\Debug\CardFlip.Form1.resources
+C:\Users\agyor\source\repos\CardFlip\CardFlip\obj\Debug\CardFlip.Properties.Resources.resources
+C:\Users\agyor\source\repos\CardFlip\CardFlip\obj\Debug\CardFlip.csproj.GenerateResource.cache
+C:\Users\agyor\source\repos\CardFlip\CardFlip\obj\Debug\CardFlip.csproj.CoreCompileInputs.cache
+C:\Users\agyor\source\repos\CardFlip\CardFlip\obj\Debug\CardFlip.exe
+C:\Users\agyor\source\repos\CardFlip\CardFlip\obj\Debug\CardFlip.pdb
